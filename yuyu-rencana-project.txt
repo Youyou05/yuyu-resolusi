@@ -1,0 +1,8 @@
+rencana project yuyu
+web
+java script
+1. es6
+2. framework js
+python
+aplikasi
+detail materi java script
